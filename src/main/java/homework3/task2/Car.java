@@ -1,4 +1,4 @@
-package lesson3;
+package homework3.task2;
 
 public class Car {
     private String color;

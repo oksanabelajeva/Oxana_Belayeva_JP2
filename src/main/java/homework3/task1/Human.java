@@ -1,4 +1,4 @@
-package lesson3;
+package homework3.task1;
 
 public class Human {
 

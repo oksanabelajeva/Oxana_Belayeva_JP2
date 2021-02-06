@@ -1,4 +1,4 @@
-package lesson3;
+package homework3.task3;
 
 public class Product {
     private String name;
