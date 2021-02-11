@@ -1,5 +1,7 @@
-package homework3.task2;
+package oxana.belayeva.homework3.task2;
 
+//Ok
+//keep the packaging oxana.belayeva.homework...
 public class CarTest {
 
     public static void main(String[] args) {

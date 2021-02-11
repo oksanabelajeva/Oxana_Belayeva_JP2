@@ -1,5 +1,7 @@
-package homework3.task1;
+package oxana.belayeva.homework3.task1;
 
+//Ok
+//keep the packaging oxana.belayeva.homework...
 public class Human {
 
     private String name;

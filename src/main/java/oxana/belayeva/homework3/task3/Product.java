@@ -1,5 +1,7 @@
-package homework3.task3;
+package oxana.belayeva.homework3.task3;
 
+//Ok
+//keep the packaging oxana.belayeva.homework...
 public class Product {
     private String name;
     private double regularPrice;

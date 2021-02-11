@@ -1,5 +1,7 @@
-package homework5.task1;
+package oxana.belayeva.homework5.task1;
 
+//Ok
+//keep the packaging oxana.belayeva.homework...
 public class Class {
 //    Ir nepieciešams aprakstīt TV stāvokli un uzvedību.
 //            Prasības:

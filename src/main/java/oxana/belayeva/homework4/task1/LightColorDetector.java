@@ -1,5 +1,7 @@
-package homework4.task1;
+package oxana.belayeva.homework4.task1;
 
+//Ok
+//keep the packaging oxana.belayeva.homework...
 public class LightColorDetector {
 
     public String detect(int waveLength) {
